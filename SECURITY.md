@@ -1,14 +1,14 @@
-# Segurança
+# Segurança do portfólio
 
-Este repositório é destinado exclusivamente à apresentação profissional dos projetos.
+Este repositório é destinado à apresentação profissional de projetos.
 
-Não são publicados:
-- credenciais;
-- tokens;
+Não devem ser publicados:
+- credenciais, senhas ou tokens;
 - chaves de API;
-- dados de clientes;
+- cookies ou sessões;
+- dados pessoais ou de clientes;
 - URLs internas;
-- código-fonte proprietário;
-- regras de negócio sensíveis.
+- arquivos de configuração sensíveis;
+- código-fonte proprietário ou regras de negócio confidenciais.
 
-Caso algum dado sensível seja identificado, ele deve ser removido antes de qualquer publicação.
+As imagens públicas devem ser revisadas antes da publicação.
