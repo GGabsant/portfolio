@@ -47,6 +47,25 @@ Projetos de desenvolvimento web utilizando HTML e JavaScript, com foco em interf
 
 [Ver apresentação do projeto](projects/aplicacoes-web.md)
 
+
+## 🖼️ Capturas dos projetos
+
+As imagens abaixo mostram algumas das interfaces desenvolvidas nos projetos de automação. O código-fonte completo permanece privado.
+
+### Automação logística
+![Interface da automação logística](assets/bot-latam.svg)
+
+### Automação de status
+![Interface da automação de status](assets/wls-status.svg)
+
+### Automação de rotas
+![Interface da automação de rotas](assets/wls-rotas.svg)
+
+### Automação PNR
+![Menu da automação PNR](assets/pnr-menu.svg)
+![Configuração da automação PNR](assets/pnr-config.svg)
+![Módulo de penalidades da automação PNR](assets/pnr-penalidades.svg)
+
 ## 🌎 Idiomas
 
 - **Português:** Nativo
