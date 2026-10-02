@@ -1,6 +1,6 @@
 # 👨‍💻 Gabryel Santana — Portfólio de Desenvolvimento
 
-Formado em **Ciência da Computação** e atuando como **Desenvolvedor Júnior (PJ)**, com foco em desenvolvimento de automações, bots, aplicações web e integrações entre sistemas.
+Formado em **Ciência da Computação**, com conhecimentos em desenvolvimento de automações, bots, aplicações web e integrações entre sistemas.
 
 Tenho experiência prática com resolução de problemas, troubleshooting, automação de processos e desenvolvimento de soluções voltadas à otimização de rotinas operacionais.
 
