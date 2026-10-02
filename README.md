@@ -61,8 +61,8 @@ Por esse motivo, os repositórios completos permanecem **privados**. Este portf�
 
 ## 📫 Contato
 
-- LinkedIn: adicione seu link
-- E-mail: adicione seu e-mail
+- LinkedIn: https://www.linkedin.com/in/gabryel-santana-64a981230?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- E-mail: gabryelsantanaa03@gmail.com
 
 ---
 
